@@ -8,6 +8,8 @@ This tool is provided **strictly for educational purposes only**.
 This project demonstrates how easy it can be to interact with Chess.com’s frontend due to the **lack of Content Security Policy (CSP)**, the fact that the frontend data is **not encrypted** and even not any **DOM Mutation Obeserver** which is completly crazy for a competitive website like that.  
 Built in **less than 2 hours** — the goal is to show that **you’re not crazy**: yes, it really is this easy to build helpers and there is way **MORE** cheaters than we can think.
 
+Hope you guys are gonna fix all that cuz i have an account currently ranked 2200+ still no flag while im in the 1Ks usually
+
 ---
 
 ## 🚀 Features
@@ -64,7 +66,7 @@ python3 -m venv venv
 .venv\Scripts\activate
 
 # MacOS/Linux
-source venv/bin/activate
+. .venv/bin/activate
 ```
 
 ### 6. Install the required packages
