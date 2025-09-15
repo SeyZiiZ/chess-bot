@@ -94,5 +94,7 @@ python app.py
 3. Turn on developer mode using the switch top right
 4. Then, top left, select `Load unpacked`
 5. Browse to the extension folder of the repo (chess extension).
+6. Launch the extension by clicking on start helper when you are IN the game
+7. Press F12 wait for the init & F12 again
 
 > Note: launch the backend before the extension & when you click on the button "start helper" pres f12 & wait for 2 secondes then close it, it will inject the content quietly
